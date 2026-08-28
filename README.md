@@ -1,1 +1,2 @@
-# Taller-Colaborativo
+Lider del proyecto: Yoshi
+Colaborador: xenturion
